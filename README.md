@@ -12,6 +12,7 @@ Tracking my hands-on DevOps labs (Azure + Kubernetes + CI/CD)
 | 02 | Azure Container Instance | 04-Apr-2026 | ✅ | DNS configured + port fix |
 | 03 | Azure Virtual Machine | 04-Apr-2026 | ✅ | NSG + RDP + quota fix |
 | 04A | App Service Basic Deployment | 05-Apr-2026 | ✅ | Region+Oryx + Node20 fix |
+| 04B | App Service Container (ACR + CD) | 05-Apr-2026 | ✅ | Webhook + zero downtime |
 ---
 
 ## 🧠 What I’m Practicing
