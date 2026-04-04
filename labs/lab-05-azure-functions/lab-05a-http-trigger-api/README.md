@@ -11,6 +11,14 @@ Create a serverless API using Azure Functions with HTTP trigger, monitoring, and
 ---
 
 ## ⚙️ Steps Performed
+ Changes from Original Lab
+Component	Lab Value	Your Value	Reason
+Region	East US 2	Central India	Better latency
+Runtime	Node 18	Node 20	Node 18 EOL
+Security	Not mentioned	TLS 1.2	Azure default
+Monitoring	Instrumentation Key	Connection String	Modern approach
+API Response	Basic	Structured JSON	Real-world API
+Testing	Basic	GET + POST	Better validation
 
 ### 🔹 Step 1: Login
 - Authenticated Azure CLI using az login
