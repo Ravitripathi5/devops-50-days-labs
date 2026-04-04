@@ -11,9 +11,7 @@ Tracking my hands-on DevOps labs (Azure + Kubernetes + CI/CD)
 | 01 | AKS Cluster Setup | 04-Apr-2026 | ✅ | Region changed to Central India |
 | 02 | Azure Container Instance | 04-Apr-2026 | ✅ | DNS configured + port fix |
 | 03 | Azure Virtual Machine | 04-Apr-2026 | ✅ | NSG + RDP + quota fix |
-| 04 |  |  | ⏳ |  |
-| 05 |  |  | ⏳ |  |
-
+| 04A | App Service Basic Deployment | 05-Apr-2026 | ✅ | Region+Oryx + Node20 fix |
 ---
 
 ## 🧠 What I’m Practicing
