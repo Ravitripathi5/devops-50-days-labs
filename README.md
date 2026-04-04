@@ -14,6 +14,7 @@ Tracking my hands-on DevOps labs (Azure + Kubernetes + CI/CD)
 | 04A | App Service Basic Deployment | 05-Apr-2026 | ✅ | Region+Oryx + Node20 fix |
 | 04B | App Service Container (ACR + CD) | 05-Apr-2026 | ✅ | Webhook + zero downtime |
 | 04C | App Service Deployment Slots | 05-Apr-2026 | ✅ | Runtime fix + slot swap |
+| 05A | Azure Function HTTP API | 05-Apr-2026 | ✅ | Node20 + CORS fix |
 ---
 
 ## 🧠 What I’m Practicing
