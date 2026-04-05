@@ -17,6 +17,7 @@ Tracking my hands-on DevOps labs (Azure + Kubernetes + CI/CD)
 | 05A | Azure Function HTTP API | 05-Apr-2026 | ✅ | Node20 + CORS fix |
 | 05B | Azure Function .NET Portal | 05-Apr-2026 | ✅ | Runtime + config fix |
 | 05C | Azure Function Python + Monitoring | 05-Apr-2026 | ✅ | Kudu + alerts + dependency fix |
+| 06A | Azure Batch Setup | 05-Apr-2026 | ✅ | Quota + region alignment |
 ---
 
 ## 🧠 What I’m Practicing
