@@ -15,6 +15,7 @@ Tracking my hands-on DevOps labs (Azure + Kubernetes + CI/CD)
 | 04B | App Service Container (ACR + CD) | 05-Apr-2026 | ✅ | Webhook + zero downtime |
 | 04C | App Service Deployment Slots | 05-Apr-2026 | ✅ | Runtime fix + slot swap |
 | 05A | Azure Function HTTP API | 05-Apr-2026 | ✅ | Node20 + CORS fix |
+| 05B | Azure Function .NET Portal | 05-Apr-2026 | ✅ | Runtime + config fix |
 | 05C | Azure Function Python + Monitoring | 05-Apr-2026 | ✅ | Kudu + alerts + dependency fix |
 ---
 
