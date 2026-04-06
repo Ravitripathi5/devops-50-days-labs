@@ -21,6 +21,8 @@ Tracking my hands-on DevOps labs (Azure + Kubernetes + CI/CD)
 | 06B | Azure Batch Job Execution | 05-Apr-2026 | ✅ | Region aligned |
 | 06C | Azure Batch Advanced Processing | 05-Apr-2026 | ✅ | Region aligned |
 | 07A | VMSS + Load Balancer | 05-Apr-2026 | ✅ | Nginx fix + LB config |
+| 07B | VMSS AZ + Autoscale | 05-Apr-2026 | ✅ | Zone compatibility fix |
+| 07C | VMSS Networking Fix | 05-Apr-2026 | ✅ | Outbound connectivity fix |
 ---
 
 ## 🧠 What I’m Practicing
