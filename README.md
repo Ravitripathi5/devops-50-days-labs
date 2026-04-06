@@ -20,6 +20,7 @@ Tracking my hands-on DevOps labs (Azure + Kubernetes + CI/CD)
 | 06A | Azure Batch Setup | 05-Apr-2026 | ✅ | Quota + region alignment |
 | 06B | Azure Batch Job Execution | 05-Apr-2026 | ✅ | Region aligned |
 | 06C | Azure Batch Advanced Processing | 05-Apr-2026 | ✅ | Region aligned |
+| 07A | VMSS + Load Balancer | 05-Apr-2026 | ✅ | Nginx fix + LB config |
 ---
 
 ## 🧠 What I’m Practicing
