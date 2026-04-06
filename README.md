@@ -18,6 +18,8 @@ Tracking my hands-on DevOps labs (Azure + Kubernetes + CI/CD)
 | 05B | Azure Function .NET Portal | 05-Apr-2026 | ✅ | Runtime + config fix |
 | 05C | Azure Function Python + Monitoring | 05-Apr-2026 | ✅ | Kudu + alerts + dependency fix |
 | 06A | Azure Batch Setup | 05-Apr-2026 | ✅ | Quota + region alignment |
+| 06B | Azure Batch Job Execution | 05-Apr-2026 | ✅ | Region aligned |
+| 06C | Azure Batch Advanced Processing | 05-Apr-2026 | ✅ | Region aligned |
 ---
 
 ## 🧠 What I’m Practicing
